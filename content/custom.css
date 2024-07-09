@@ -1,5 +1,5 @@
 #previewFull {
-  background-color: #666666 !important;
+  background-color: #1E1E1E !important;
   width: 482px !important;
   color: inherit;
 }
@@ -8,20 +8,20 @@
 }
 
 body {
-  background-color: #4C4C4C !important;
+  background-color: #1E1E1E !important;
   color: inherit;
 }
 
 #stage, #stage2 {
-  border-bottom: 1px dotted #7F7F7F !important;
+  border-bottom: 1px dotted #F4CE32 !important;
 }
 
 #sitetitle {
-  border-bottom: 1px dotted #7F7F7F !important;
+  border-bottom: 1px dotted #F4CE32 !important;
 }
 
 .borderRight {
-  border-right: 1px solid #787878 !important;
+  border-right: 1px solid #1E1E1E !important;
 }
 
 .logo {
@@ -29,16 +29,16 @@ body {
 }
 
 .detailText {
-  color: #B3B3B3 !important;
+  color: #A19B85 !important;
   background-color: inherit;
 }
 
 .preview {
-  border: 1px solid #000000 !important;
+  border: 5px solid #FFFFFF !important;
 }
 
 .thumbnail {
-  background-color: #949494 !important;
+  background-color: #1E1E1E !important;
   color: inherit;
 }
 
@@ -51,7 +51,7 @@ body {
 }
 
 .itemNumber {
-  color: #9C9C9C !important;
+  color: #1E1E1E !important;
   display: inherit !important;
   background-color: inherit;
 }
@@ -62,22 +62,22 @@ body {
 }
 
 .borderTopLeft {
-  border-top: 1px solid #787878 !important;
-  border-left: 1px solid #787878 !important;
+  border-top: 1px solid #1E1E1E !important;
+  border-left: 1px solid #1E1E1E !important;
 }
 
 .selectedThumbnail, .thumbnail:hover {
-  background-color: #A1A1A1 !important;
+  background-color: #F4CE32 !important;
   color: inherit;
 }
 
 .borderRightDotted {
-  border-right: 1px dotted #787878 !important;
+  border-right: 1px dotted #1E1E1E !important;
 }
 
 .borderBottomRight {
-  border-right: 1px solid #787878 !important;
-  border-bottom: 1px solid #787878 !important;
+  border-right: 1px solid #1E1E1E !important;
+  border-bottom: 1px solid #1E1E1E !important;
 }
 
 #wrapper_large {
@@ -85,7 +85,7 @@ body {
 }
 
 .emptyThumbnail {
-  background-color: #949494 !important;
+  background-color: #1E1E1E !important;
   color: inherit;
 }
 
@@ -97,14 +97,14 @@ body {
 }
 
 .thumb {
-  border: 1px solid #000000 !important;
+  border: none !important;
 }
 
 #liveUpdateSiteTitle {
 }
 
 .borderBottom {
-  border-bottom: 1px solid #787878 !important;
+  border-bottom: 1px solid #1E1E1E !important;
 }
 
 #stage {
@@ -112,6 +112,6 @@ body {
 }
 
 .textColor {
-  color: #B3B3B3 !important;
+  color: #F4F3F1 !important;
   background-color: inherit;
 }
